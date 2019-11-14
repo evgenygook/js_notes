@@ -1,5 +1,5 @@
 
-//data today
+//дата сегодня
 let today = ()=> { 
   
 var d = new Date();
