@@ -23,7 +23,9 @@ function getWord () {
   'iway', 'love', 'like', 'hate', 'people',
   'pornhub', 'twitter', 'rofl', 'sorry', 'dont',
   'speak', 'human', 'life', 'is', 'bautiful',
-  'end', 'dead', 'poop', 'restapi', 'shit'
+  'end', 'dead', 'poop', 'restapi', 'shit', 'rocketbank', 'shitpost',
+  'party','suicide', 'javaScript','iwau', 'reckt', 
+  'nottrue','but','for','you'
  ];
 
 let result = words[Math.floor(Math.random()*words.length)];
